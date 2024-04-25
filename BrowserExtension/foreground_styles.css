@@ -1,0 +1,131 @@
+.main_container{
+    width: 160px;
+    min-height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    position: fixed;
+    z-index: 99999;
+    top: 96%;
+    left: 1%;
+    transform: translate(0%, -100%);
+
+    user-select: none;
+
+    color: white;
+    font-size: 14px;
+
+    border: 3px solid #3c275c;
+    border-radius: 16px;
+
+    background-color: #9266d4;
+}
+
+.direction_button{
+    padding: 10px, 10px;
+    padding-left: 8px;
+    padding-right: 8px;
+
+    font-size: 20px;
+
+    color: #d9c3fa;
+    background-color: #7952b3;
+
+    border: 2px solid #3c275c;
+    border-radius: 12px;
+
+    cursor: pointer;
+}
+
+.horizontal{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.horizontal_spaceout{
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.options_info{
+    color: #ebdeff;
+    background-color: #9f7ed1;
+
+    border: 2px solid #3c275c;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+
+    padding-left: 3px;
+    padding-right: 3px;
+
+    font-size: 16px;
+}
+
+.options_toggle{
+    padding: 10px, 10px;
+    padding-left: 3px;
+    padding-right: 3px;
+
+    font-size: 16px;
+
+    color: #d9c3fa;
+    background-color: #7952b3;
+
+    border: 2px solid #3c275c;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+
+    cursor: pointer;
+}
+
+.reveal
+{
+    background-color: #3c275c;
+    border-radius: 12px;
+
+    cursor: pointer;
+
+    min-height: 22px;
+    min-width: 100px;
+}
+
+.info_text{
+    font-family: "Arial Black";
+    overflow-wrap: break-word;
+    text-align: center;
+}
+
+.number_showcase{
+    font-size: 13px;
+    cursor: pointer;
+}
+
+#tpId_input{
+    width: 50px;
+    height: 22px;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+
+#tpId_button{
+    width: 30px;
+    height: 21px;
+    padding-left: 5px;
+    cursor: pointer;
+
+    color: #d9c3fa;
+    background-color: #7952b3;
+
+    border: 1px solid #3c275c;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+
+    align-items: center;
+}
+
+#hide{
+    display: none;
+}

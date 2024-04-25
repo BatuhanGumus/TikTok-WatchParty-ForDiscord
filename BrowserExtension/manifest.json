@@ -1,0 +1,28 @@
+{
+    "name": "Tok Viewer",
+    "description": "helps us watch tiktoks",
+    "version": "0.1.0",
+    "manifest_version": 3,
+
+    "background": {
+      "service_worker": "./background.js"
+    },
+
+    "action": {
+      "default_popup": "./popup.html"
+    },
+
+    "options_page": "./options.html",
+
+    "permissions": [
+      "activeTab",
+      "tabs",
+      "storage",
+      "scripting",
+      "input"
+    ],
+
+    "host_permissions": [
+      "https://www.tiktok.com/*"
+    ]
+}
