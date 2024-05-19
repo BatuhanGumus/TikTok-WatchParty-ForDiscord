@@ -16,6 +16,7 @@ You will find 2 components of this project.
     - See the comment the person made with the TikTok they sent.
     - Randomize the list in case a person sent too many back to back.
     - Can hide who sent it if you want to guess.
+    - Click the __/__ number to get sent to the discord message of the TikTok you are watching
 
 > [!NOTE]  
 > I have only used this extension on Google Chrome so I cannot guarantee compatibility with all browsers 
@@ -42,6 +43,19 @@ You will find 2 components of this project.
     User3 has sent 51 TikToks
     Total of 114 TikToks
     ======================================
+    ```
+
+    ```json
+    {
+      {
+      "sentBy": "user#0",
+      "comment": "LMAO",
+      "sentAt": "2023-08-26T21:05:18.285Z",
+      "link": "https://vm.tiktok.com/link/",
+      "messageLink": "https://discord.com/channels/message/reference/link"
+      },
+     .....
+    }
     ```
 
 ### Browser Extension
