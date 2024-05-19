@@ -55,3 +55,6 @@ You will find 2 components of this project.
     <img src="/docs/panel.JPG" height="300">
  
 4)  Stream your browser on Discord or whatever streaming platform you'd like!
+
+## Additional Uses
+Because you now have all these JSON's you can do some data science with it to bully a friend for sending too many TikToks at 3 am with graphs!
