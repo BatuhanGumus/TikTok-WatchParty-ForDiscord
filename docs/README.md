@@ -1,5 +1,6 @@
 # TikTok-WatchParty-ForDiscord
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](/LICENSE)
+
 Ever wanted to spam TikToks to a Discord chat with your friends and get to watch them together? Well now you can!
 
  ![Discord Reaction](/docs/watch.JPG)
