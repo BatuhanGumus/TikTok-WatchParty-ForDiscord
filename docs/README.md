@@ -1,5 +1,5 @@
 # TikTok-WatchParty-ForDiscord
-Ever wanted to spam TikToks to a Discord chat with your friends and get to watch them together? Well not you can!
+Ever wanted to spam TikToks to a Discord chat with your friends and get to watch them together? Well now you can!
 
 ----
 
