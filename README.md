@@ -19,7 +19,15 @@ You will find 2 components of this project.
 }
 ```
 3) Run the bot with `node index.js` and keep it open. The bot will react with a "👍" to any message that starts with a TikTok link and save it.
-4) "//check" will get the bot to text to that text channel with who sent how many TikToks and "//checkpoint" will also attatch a JSON file and clear the bot memory.
+4) `//check` will get the bot to text to that text channel with who sent how many TikToks and `//checkpoint` will also attatch a JSON file and clear the bot memory.
+```
+======================================
+User1 has sent 38 TikToks
+User2 has sent 25 TikToks
+User3 has sent 51 TikToks
+Total of 114 TikToks
+======================================
+```
 
 ### Browser Extension
 1) Go through [Google documentation](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked) for installing custom extensions.
