@@ -45,10 +45,10 @@ You will find 2 components of this project.
 1) Go through [Google documentation](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked) for installing custom extensions.
 2) Download the JSON from the Discord bots message. In the extension menu open this extension and find the JSON you downloaded to innitiate.
 
- ![Discord Reaction](/docs/preInit.JPG)
+    ![Discord Reaction](/docs/preInit.JPG)
 
 3) The bot will open TikTok and you will find a small panel on the left to go through all the TikToks that were sent.
 
- ![Discord Reaction](/docs/panel.JPG)
+    ![Discord Reaction](/docs/panel.JPG)
  
 4)  Stream your browser on Discord or whatever streaming platform you'd like!
