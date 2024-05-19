@@ -17,6 +17,9 @@ You will find 2 components of this project.
     - Randomize the list in case a person sent too many back to back.
     - Can hide who sent it if you want to guess.
 
+> [!NOTE]  
+> I have only used this extension on Google Chrome so I cannot guarantee compatibility with all browsers 
+
 
 ## Get Things Running
 ### Discord Bot
@@ -28,10 +31,9 @@ You will find 2 components of this project.
     }
     ```
 3) Run the bot with `node index.js` and keep it open. The bot will react with a "👍" to any message that starts with a TikTok link and save it.
-   
-    ![Discord Reaction](/docs/discordMsg.JPG)
+    <img src="/docs/discordMsg.JPG" width="370">
 
-5) `//check` will get the bot to text to that text channel with who sent how many TikToks and `//checkpoint` will also attatch a JSON file and clear the bot memory.
+4) `//check` will get the bot to text to that text channel with who sent how many TikToks and `//checkpoint` will also attatch a JSON file and clear the bot memory.
     ```
     ======================================
     User1 has sent 38 TikToks
@@ -45,10 +47,10 @@ You will find 2 components of this project.
 1) Go through [Google documentation](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked) for installing custom extensions.
 2) Download the JSON from the Discord bots message. In the extension menu open this extension and find the JSON you downloaded to innitiate.
 
-    ![Discord Reaction](/docs/preInit.JPG)
+    <img src="/docs/preInit.JPG" width="370">
 
 3) The bot will open TikTok and you will find a small panel on the left to go through all the TikToks that were sent.
 
-    ![Discord Reaction](/docs/panel.JPG)
+    <img src="/docs/panel.JPG" height="300">
  
 4)  Stream your browser on Discord or whatever streaming platform you'd like!
