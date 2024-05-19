@@ -12,7 +12,7 @@ You will find 2 components of this project.
 ## Get Things Running
 ### Discord Bot
 1) Go through [Discord documentation](https://discord.com/developers/docs/quick-start/getting-started) for setting up a bot on your server.
-2) Put in your bot token in the [config.json](DiscordBot/config) file.
+2) Put in your bot token in the [config.json](/DiscordBot/config.json) file.
 ```json
 {
     "token": "your-token-goes-here"
