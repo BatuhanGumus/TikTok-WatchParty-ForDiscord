@@ -31,6 +31,7 @@ You will find 2 components of this project.
     }
     ```
 3) Run the bot with `node index.js` and keep it open. The bot will react with a "👍" to any message that starts with a TikTok link and save it.
+
     <img src="/docs/discordMsg.JPG" width="370">
 
 4) `//check` will get the bot to text to that text channel with who sent how many TikToks and `//checkpoint` will also attatch a JSON file and clear the bot memory.
