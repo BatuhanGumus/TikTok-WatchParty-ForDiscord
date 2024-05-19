@@ -17,6 +17,6 @@ Put in your bot token in the config.json file.
 {
     "token": "your-token-goes-here"
 }
-```cpp
+```
 Run the bot with `node index.js` and keep it open. The bot will react with a "👍" to any message that starts with a TikTok link and save it.
 "//check" will get the bot to text to that text channel with who sent how many TikToks and "//checkpoint" will also attatch a JSON file and clear the bot memory.
