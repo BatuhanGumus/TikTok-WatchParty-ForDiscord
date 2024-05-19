@@ -7,10 +7,16 @@ Ever wanted to spam TikToks to a Discord chat with your friends and get to watch
 ----
 
 
-
+## Features
 You will find 2 components of this project.
-1) DiscordBot
-2) BrowserExtension
+1) [Discord Bot](/DiscordBot)
+    - Keeps the TikToks sent and gives them to you via JSON.
+2) [Browser Extension](/BrowserExtension)
+    - Allows you to go through the sent TikToks with ease.
+    - See the comment the person made with the TikTok they sent.
+    - Randomize the list in case a person sent too many back to back.
+    - Can hide who sent it if you want to guess.
+
 
 ## Get Things Running
 ### Discord Bot
