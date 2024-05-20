@@ -73,7 +73,6 @@ You will find 2 components of this project.
 ## Additional Uses
 Because you now have all these JSON's you can do some data science with it to bully a friend for sending too many TikToks at 3 am with graphs, or see group behaviour over the years!
 
-<p float="left">
-  <img src="https://github.com/BatuhanGumus/TikTok-WatchParty-ForDiscord/assets/45213285/ceb6a072-7a0c-43af-99d9-2213ad27b4ac" width="300" />
-  <img src="https://github.com/BatuhanGumus/TikTok-WatchParty-ForDiscord/assets/45213285/05ecb4ae-f1e7-41b7-b146-fc92a5c392f3" width="300" />
-</p>
+Users TikTok Count per Hour            |  Groups TikTok Count per Month
+:-------------------------:|:-------------------------:
+![](https://github.com/BatuhanGumus/TikTok-WatchParty-ForDiscord/assets/45213285/ceb6a072-7a0c-43af-99d9-2213ad27b4ac)  |  ![](https://github.com/BatuhanGumus/TikTok-WatchParty-ForDiscord/assets/45213285/05ecb4ae-f1e7-41b7-b146-fc92a5c392f3)
